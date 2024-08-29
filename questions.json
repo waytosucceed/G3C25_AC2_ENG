@@ -1,0 +1,217 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "I saw __ dog in the yard.",
+        "options": [
+            "a",
+            "an",
+            "the"
+        ],
+        "correct": 0,
+        "explanation": "Use \"a\" because we're talking about any dog, not a specific one."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "She picked __ apple from the tree.",
+        "options": [
+            "a",
+            "an",
+            "the"
+        ],
+        "correct": 1,
+        "explanation": "Use \"an\" because \"apple\" starts with a vowel sound."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Please give me __ pencil.",
+        "options": [
+            "a",
+            "an",
+            "the"
+        ],
+        "correct": 0,
+        "explanation": "Use \"a\" because it's any pencil, not a specific one."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "I saw __ movie last night.",
+        "options": [
+            "a",
+            "an",
+            "the"
+        ],
+        "correct": 0,
+        "explanation": "Use \"a\" because it's not a specific movie."
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "This is __ book I wanted.",
+        "options": [
+            "a",
+            "an",
+            "the"
+        ],
+        "correct": 2,
+        "explanation": "Use \"the\" because we're talking about a specific book. The book that person wanted."
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "I have __ cat and __ dog.",
+        "options": [
+            "a, an",
+            "the, a",
+            "a, a"
+        ],
+        "correct": 2,
+        "explanation": "Use \"a\" for the cat and \"a\" for the dog, as we're introducing them. They are just any cat or dog, not a specific one."
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "____ sun is bright today.",
+        "options": [
+            "A",
+            "An",
+            "The"
+        ],
+        "correct": 2,
+        "explanation": "Use \"the\" because everyone knows about the sun."
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "She wants ____ ice cream after lunch.",
+        "options": [
+            "a",
+            "an",
+            "the"
+        ],
+        "correct": 1,
+        "explanation": "Use \"an\" because \"ice cream\" starts with a vowel sound."
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "He has ____ idea for a new game.",
+        "options": [
+            "a",
+            "an",
+            "the"
+        ],
+        "correct": 1,
+        "explanation": "Use \"an\" because \"idea\" starts with a vowel sound."
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "Look at ____ picture on the wall.",
+        "options": [
+            "a",
+            "an",
+            "the"
+        ],
+        "correct": 2,
+        "explanation": "Use \"the\" because we’re talking about a specific picture."
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "Use \"an\" before words that start with a consonant sound. (True / False)",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "\"An\" is used before words that start with a vowel sound."
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Use \"a\" before words that start with a vowel sound. (True / False)",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "\"A\" is used before words that start with a consonant sound."
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Use \"the\" to talk about something specific. (True / False)",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "\"The\" is used to talk about something specific that everyone knows about."
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "You should use \"an\" before a word starting with \"C.\" (True / False)",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "Use \"a\" before words starting with \"c\" (like \"a cat\"). It starts with a consonant sound."
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Use article “an” before the word “aeroplane”. (True / False)",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "Article “an” is used before the words starting with vowel sounds."
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "She wore ____ red dress to the party.",
+        "options": [
+            "a",
+            "an",
+            "the"
+        ],
+        "correct": 0,
+        "explanation": "Use \"a\" because we're introducing a red dress, not a specific one."
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "____ moon is bright tonight.",
+        "options": [
+            "A",
+            "An",
+            "The"
+        ],
+        "correct": 2,
+        "explanation": "Use \"the\" because everyone knows which moon we are talking about."
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "I need ____ new pair of shoes.",
+        "options": [
+            "a",
+            "an",
+            "the"
+        ],
+        "correct": 0,
+        "explanation": "Use \"a\" because it’s any new pair of shoes, not specific. Also, the word ‘new’ starts with a consonant sound."
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "Can you open ____ door for me?",
+        "options": [
+            "a",
+            "an",
+            "the"
+        ],
+        "correct": 2,
+        "explanation": "Use \"the\" because we’re talking about a specific door. The speaker and listener, both are aware of that door."
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "____ book on the desk is mine.",
+        "options": [
+            "A",
+            "An",
+            "The"
+        ],
+        "correct": 2,
+        "explanation": "We're talking about a specific book, so use \"the.\" The book kept on the desk is a specific book that both speaker and listener are aware of."
+    }
+]
